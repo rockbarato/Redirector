@@ -1,4 +1,4 @@
-# Redirector
+Redirector
 =================
 [![License](https://img.shields.io/github/license/rockbarato/Redirector.svg)](http://opensource.org/licenses/MIT)
 [![Language](https://img.shields.io/badge/language-PHP-blue.svg)](https://github.com/rockbarato/Redirector)
