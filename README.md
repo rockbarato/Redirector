@@ -4,7 +4,7 @@ Redirector
 
 ## Installation
 
-Just download all the zip and change the constants at `index.php` file.
+Just download the zip and change the constants at `index.php` file.
 
 ```
 define('ANDROID_URL', 'https://play.google.com/store/apps/details?id=com.android.chrome&hl=es_419');
