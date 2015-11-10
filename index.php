@@ -2,9 +2,9 @@
 
 require 'Redirector.php';
 
-define('ANDROID_URL', 'https://play.google.com/store/apps/details?id=com.opentech.py.cep');
-define('iOS_URL', 'https://itunes.apple.com/py/app/club-de-ejecutivos/id583435746');
-define('OPTIONAL_URL', 'http://clubdeejecutivos.org.py/');
+define('ANDROID_URL', 'https://play.google.com/store/apps/details?id=com.android.chrome&hl=es_419');
+define('iOS_URL', 'https://itunes.apple.com/us/app/chrome-web-browser-by-google/id535886823?mt=8');
+define('OPTIONAL_URL', 'https://www.google.com/chrome/');
 
 
 try {
