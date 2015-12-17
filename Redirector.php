@@ -86,9 +86,9 @@ class Redirector {
 
 		} else {
 
-			$finalURL = strlen($this->androidURL) > 0 ? $this->androidURL : (
-							strlen($this->iOSURL) > 0 ? $this->iOSURL : (
-								$this->optionalURL
+			$finalURL = strlen($this->optionalURL) > 0 ? $this->optionalURL : (
+							strlen($this->androidURL) > 0 ? $this->androidURL : (
+								$this->iOSURL
 							)
 						);
 
